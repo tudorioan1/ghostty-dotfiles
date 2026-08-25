@@ -7,7 +7,7 @@ Ghostty is a fast, native terminal emulator with a focus on performance and simp
 
 ```bash
 git clone https://github.com/tudorioan1/ghostty-dotfiles.git
-
+```
 2.  **Go to the directory**:
    ```
 cd ghostty-dotfiles
