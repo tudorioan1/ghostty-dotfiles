@@ -15,6 +15,8 @@ cd ghostty-dotfiles
 ```
 3. **Copy the configuration file to your Ghostty config directory**:
 ```
-cp ghostty ~/.config/ghostty
+cp -r ghostty ~/.config/ghostty
 ```
+Restart ghostty and enjoy!
+Feel free to make modifications to it, my config is made for a tiling window manager so you might not have a bar with the navigation buttons.
 ! You might need to install the MesloLGM Nerd Font.
