@@ -23,7 +23,7 @@ Restart ghostty and enjoy!
 
 Feel free to make modifications to it, my config is made for a tiling window manager so you might not have a bar with the navigation buttons.
 
-If you want to have the navigation buttons, all you have to do is modify the `gtk-titlebar` from `false` to `true`.
+If you want to have the navigation buttons, all you have to do is modify the `gtk-titlebar` from `false` to `true` in `~/.config/ghostty/config` file.
 
 
 
