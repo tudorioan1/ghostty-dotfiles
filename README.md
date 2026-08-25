@@ -2,6 +2,7 @@
 Ghostty is a fast, native terminal emulator with a focus on performance and simplicity. This repo contains my personal Ghostty configuration and dotfiles.
 
 ## Installation
+! Install the ghostty terminal for your Linux distro and then proceed with the following steps.
 
 1. **Clone this repository**:
 
