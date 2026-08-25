@@ -4,6 +4,8 @@ Ghostty is a fast, native terminal emulator with a focus on performance and simp
 ## Installation
 ! Install the ghostty terminal for your Linux distro and then proceed with the following steps.
 
+! You might need to install the MesloLGM Nerd Font.
+
 1. **Clone this repository**:
 
 ```bash
@@ -18,5 +20,8 @@ cd ghostty-dotfiles
 cp -r ghostty ~/.config/ghostty
 ```
 Restart ghostty and enjoy!
+
 Feel free to make modifications to it, my config is made for a tiling window manager so you might not have a bar with the navigation buttons.
-! You might need to install the MesloLGM Nerd Font.
+
+
+
